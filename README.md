@@ -9,5 +9,6 @@
 - Updated the site by committing and pushing changes, which triggers an automatic redeploy.
 
 ## Screenshots
-Add images from `screenshots/` here.
+![Pages settings](screenshots/pages-settings.png)
+![Live site](screenshots/live-site.png)
 
